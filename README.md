@@ -79,23 +79,85 @@
 
 ## 🏆 Featured Projects
 
-### 🤖 Machine Learning Projects
-- **Spam News Detection** - Classification model to detect fake/spam news articles
-- **Employee Promotion Evaluation** - Predictive analytics for HR decision-making
-- **Diabetes Prediction** - Healthcare ML model for early diabetes detection
-- **LLM-based Document Understanding System** - Intelligent query processing using LangChain & OpenAI APIs
+### 🤖 AI & Machine Learning
 
-### 🌐 Web Development
-- **ML Model Dashboards** - Interactive web interfaces using Flask
-- **Full-stack Applications** - Modern web apps with database integration
+<table>
+<tr>
+<td width="50%">
 
-### 🎥 Content Creation & Brand Management
-- **MONARCH Brand** - Multi-channel YouTube network (Facts, Story, Affiliate Marketing)
-- **Beyond Reality** - Narrative-driven storytelling content
-- **Monarch Finds** - Affiliate marketing with product research & video design
+#### 🧠 LLM (Large Language Model)
+**Tech:** Python, NLP, Transformers
+
+Exploring large language models and their applications in real-world scenarios.
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/LLm)
+
+</td>
+<td width="50%">
+
+#### 📊 Customer Churning Prediction
+**Tech:** Python, Scikit-learn, Pandas
+
+ML model to predict customer churn with high accuracy using advanced analytics.
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/Customer-Churning-Prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 👥 Employee Promotion Evaluation
+**Tech:** Python, AutoML, Jupyter
+
+ML-driven system for evaluating employee promotion readiness using automated ML techniques.
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/Employee_Promotion_Evaluation)
+
+</td>
+<td width="50%">
+
+#### 🔍 Query Retrieval System
+**Tech:** Python, NLP, Information Retrieval
+
+Advanced query retrieval system designed for hackathon competition.
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/Query-Retrieval-System)
+
+</td>
+</tr>
+</table>
+
+### 💼 Full-Stack & Web Development
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏨 Hotel Management Website
+**Tech:** HTML, CSS, JavaScript, SCSS
+
+Comprehensive hotel management system with modern UI/UX design.
+
+⭐ **1 Star** | 🎓 College Project
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/HOTEL-MANAGEMENT-WEBISTE)
+
+</td>
+<td width="50%">
+
+#### 🔲 Barcode QR Generator
+**Tech:** HTML, JavaScript
+
+Web-based tool for generating barcodes and QR codes efficiently.
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/BarcodeQRGenerator)
+
+</td>
+</tr>
+</table>
 
 ---
-
 ## 🎯 Skills Beyond Code
 
 ### 🤝 Leadership & Management
@@ -120,19 +182,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saipraveen-k&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saipraveen-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+------
 
 ## 🌱 Currently Learning
 
