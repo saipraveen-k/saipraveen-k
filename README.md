@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sai Praveen Korubilli
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Machine+Learning+Engineer+🤖;AI+Enthusiast+🧠;Content+Creator+🎥" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-praveen-korubilli-88435a255)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k.sai_praveen/)
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-> Passionate **Computer Engineering Student** | Aspiring **Full-Stack Developer** | **ML Engineer** | Building the Future with AI
+**Passionate Computer Engineering Student** | Aspiring **Full-Stack Developer** | **ML Engineer** | Building the Future with AI
 
 - 🎓 Computer Engineering Student with a passion for innovation
 - 💻 Full-stack development enthusiast specializing in modern web technologies
@@ -33,188 +33,160 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 Machine Learning & AI
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00ADD8?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### ☁️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🎬 Creative & Content Tools
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 Machine Learning Projects
+- **Spam News Detection** - Classification model to detect fake/spam news articles
+- **Employee Promotion Evaluation** - Predictive analytics for HR decision-making
+- **Diabetes Prediction** - Healthcare ML model for early diabetes detection
+- **LLM-based Document Understanding System** - Intelligent query processing using LangChain & OpenAI APIs
 
-<table>
-<tr>
-<td width="50%">
+### 🌐 Web Development
+- **ML Model Dashboards** - Interactive web interfaces using Flask
+- **Full-stack Applications** - Modern web apps with database integration
 
-#### 🧠 LLM (Large Language Model)
-**Tech:** Python, NLP, Transformers
-
-Exploring large language models and their applications in real-world scenarios.
-
-[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/LLm)
-
-</td>
-<td width="50%">
-
-#### 📊 Customer Churning Prediction
-**Tech:** Python, Scikit-learn, Pandas
-
-ML model to predict customer churn with high accuracy using advanced analytics.
-
-[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/Customer-Churning-Prediction)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 👥 Employee Promotion Evaluation
-**Tech:** Python, AutoML, Jupyter
-
-ML-driven system for evaluating employee promotion readiness using automated ML techniques.
-
-[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/Employee_Promotion_Evaluation)
-
-</td>
-<td width="50%">
-
-#### 🔍 Query Retrieval System
-**Tech:** Python, NLP, Information Retrieval
-
-Advanced query retrieval system designed for hackathon competition.
-
-[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/Query-Retrieval-System)
-
-</td>
-</tr>
-</table>
-
-### 💼 Full-Stack & Web Development
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏨 Hotel Management Website
-**Tech:** HTML, CSS, JavaScript, SCSS
-
-Comprehensive hotel management system with modern UI/UX design.
-
-⭐ **1 Star** | 🎓 College Project
-
-[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/HOTEL-MANAGEMENT-WEBISTE)
-
-</td>
-<td width="50%">
-
-#### 🔲 Barcode QR Generator
-**Tech:** HTML, JavaScript
-
-Web-based tool for generating barcodes and QR codes efficiently.
-
-[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/saipraveen-k/BarcodeQRGenerator)
-
-</td>
-</tr>
-</table>
+### 🎥 Content Creation & Brand Management
+- **MONARCH Brand** - Multi-channel YouTube network (Facts, Story, Affiliate Marketing)
+- **Beyond Reality** - Narrative-driven storytelling content
+- **Monarch Finds** - Affiliate marketing with product research & video design
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Skills Beyond Code
+
+### 🤝 Leadership & Management
+- Team Leadership across multiple domain teams
+- Strategic Planning & Task Assignment
+- Brand Strategy & Identity Development
+- Collaboration & Project Coordination
+
+### 🎨 Creative Skills
+- Video Production & Editing (Shorts, Stories, Long-form)
+- Scriptwriting & Storytelling
+- Content Strategy & Affiliate Marketing
+- UI/UX Design
+
+### 🧩 Soft Skills
+- Strategic Planning & Decision-Making
+- Critical & Analytical Thinking
+- Communication & Presentation
+- Time Management & Consistency
+- Adaptability & Problem Solving
+- Mentorship & Guidance
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saipraveen-k&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saipraveen-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Key Achievements
+## 🌱 Currently Learning
 
-- 🎓 **Computer Engineering Student** - Pursuing excellence in technology
-- 🏅 **Hackathon Participant** - Developed Query Retrieval System for competition
-- ⭐ **Open Source Contributor** - Active in the GitHub community
-- 💼 **Project Portfolio** - Successfully completed 7+ diverse projects
-- 🤖 **ML Enthusiast** - Built multiple machine learning models for real-world applications
-- 🌐 **Full-Stack Developer** - Created end-to-end web applications
-- 📈 **Business Analytics** - Interest in investment strategies and financial technology
+- Advanced AI/ML Techniques
+- Cloud Technologies (AWS, Azure)
+- Ethical Hacking & Cybersecurity
+- Advanced Web Development Frameworks
+- LLM Integration & Automation
+- GDSC Courses & Google Internship Prep
 
 ---
 
-## 📺 Connect With Me
+## 💡 Open to Collaborate On
 
-<div align="center">
+- AI/ML Projects
+- Full-stack Web Applications
+- Open Source Contributions
+- Tech Content Creation
+- Business & Investment Analytics Tools
 
-### 🌐 Let's Collaborate!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-praveen-korubilli-88435a255)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k.sai_praveen/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saipraveensuperj@gmail.com)
+## 🎓 Certifications & Learning
 
-**💡 Open to collaborating on:**
-- 🤖 AI/ML Projects
-- 🌐 Full-Stack Development
-- 📊 Business Analytics & Investment Tech
-- 🎥 Content Creation & Tech Education
-- 🚀 Innovative Startup Ideas
-
-</div>
+- Google Developer Student Clubs (GDSC) Programs
+- Google Internship Preparation
+- Machine Learning Specializations
+- Web Development Certifications
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 📫 Let's Connect!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**I'm always excited to collaborate on innovative projects and connect with fellow developers and creators!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-praveen-korubilli-88435a255)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/k.sai_praveen/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:saipraveensuperj@gmail.com)
 
 ---
 
-### ☕ Support My Work
+### ⚡ Fun Facts
 
-If you find my projects helpful, consider giving them a ⭐!
+- 🎮 Passionate about gaming and tech innovation
+- 📚 Avid learner with a growth mindset
+- 💼 Building MONARCH - a multi-channel brand empire
+- 🎯 Focused on discipline, consistency, and excellence
+
+---
 
 **Made with ❤️ by Sai Praveen Korubilli**
 
-![Snake animation](https://raw.githubusercontent.com/saipraveen-k/saipraveen-k/output/github-contribution-grid-snake.svg)
+*"Building the future, one line of code at a time."*
 
 </div>
