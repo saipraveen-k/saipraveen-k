@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Sai Praveen Korubilli
 
-**Full-Stack Developer | AI/ML Engineer | Building Scalable Solutions**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-praveen-korubilli-88435a255)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k.sai_praveen/)
