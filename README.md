@@ -119,9 +119,9 @@ Focused on building **production-ready AI systems**, not just models.
 ## 📊 GitHub Stats
 
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyo-night&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saipraveen-k&theme=tokyo_night)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyo-night&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saipraveen-k&theme=tokyo_night)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true)
 
