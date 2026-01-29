@@ -117,16 +117,17 @@ Focused on building **production-ready AI systems**, not just models.
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&theme=tokyo-night&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&theme=tokyo-night&hide_border=true&layout=compact)
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyo-night&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyo-night&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true)
 
 </div>
 
----
-
-<div align="center">
 
 ### Made with ❤️ by Sai Praveen Korubilli  
 **"Building the future, one system at a time."**
