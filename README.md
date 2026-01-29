@@ -118,11 +118,12 @@ Focused on building **production-ready AI systems**, not just models.
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&hide_border=true" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&hide_border=true" />
 
 ![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyo-night&hide_border=true)
 
