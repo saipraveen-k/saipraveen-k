@@ -17,7 +17,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saipraveen-k&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saipraveen-k&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -25,12 +25,13 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/saipraveen-k/saipraveen-k/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/saipraveen-k/saipraveen-k/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
 
 ## 📊 Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=saipraveen-k&color=2F81F7&style=flat)
 
 ---
@@ -39,17 +40,15 @@
 
 🎯 **AI Engineer focused on building production-ready intelligent systems**
 
-I design and build **end-to-end AI products**:
+I design and build **end-to-end AI products**:  
 > Data → Model → API → UI → Deployment
 
-- 🎓 Computer Engineering student (India)
-- 🤖 ML, NLP & LLM systems developer
-- ⚙️ Backend engineer (FastAPI, scalable APIs)
-- 🌐 Full-stack developer (React + dashboards)
-- 📦 Strong in shipping real-world projects
-- 🎥 Tech content creator (AI + development)
-
----
+- 🎓 Computer Engineering student (India)  
+- 🤖 ML, NLP & LLM systems developer  
+- ⚙️ Backend engineer (FastAPI, scalable APIs)  
+- 🌐 Full-stack developer (React + dashboards)  
+- 📦 Strong in shipping real-world projects  
+- 🎥 Tech content creator (AI + development)  
 
 ---
 
@@ -118,36 +117,40 @@ I design and build **end-to-end AI products**:
 ### 🤖 AI Systems
 
 #### 🧠 LLM-Based Document Intelligence System
-<img src="https://via.placeholder.com/800x400.gif?text=LLM+System+Demo" />
 
-- Extracts insights from documents (PDF, DOCX, emails)
-- Uses LLM + retrieval pipeline
-- Built for intelligent query evaluation
+<img src="https://github.com/saipraveen-k/LLM-Document-Intelligence/blob/main/assets/demo.gif" width="100%" />
+
+- Extracts insights from documents (PDF, DOCX, emails)  
+- Uses LLM + retrieval pipeline  
+- Built for intelligent query evaluation  
 
 ---
 
 #### 📊 Employee Promotion Evaluation
-<img src="https://via.placeholder.com/800x400.gif?text=ML+Dashboard+Demo" />
 
-- Predicts promotion eligibility
-- Includes preprocessing + ML model + visualization
+<img src="https://github.com/saipraveen-k/Employee-Promotion-ML/blob/main/assets/demo.gif" width="100%" />
+
+- Predicts promotion eligibility  
+- Includes preprocessing, ML model and visual analytics  
 
 ---
 
 ### 🌐 Full Stack Projects
 
 #### 💊 PharmaRep Master
-<img src="https://via.placeholder.com/800x400.gif?text=Pharma+AI+Demo" />
 
-- AI-powered pharma matching system
-- FastAPI + React + LLM integration
+<img src="https://github.com/saipraveen-k/PharmaRep-Master/blob/main/assets/demo.gif" width="100%" />
+
+- AI-powered pharma matching system  
+- FastAPI + React + LLM integration  
 
 ---
 
 #### 🏨 Hotel Management System
-<img src="https://via.placeholder.com/800x400.gif?text=Hotel+System+Demo" />
 
-- UI-based booking & management system
+<img src="https://github.com/saipraveen-k/Hotel-Management-System/blob/main/assets/demo.gif" width="100%" />
+
+- UI-based booking and management system  
 
 ---
 
@@ -156,11 +159,12 @@ I design and build **end-to-end AI products**:
 ✔️ I build **complete AI systems**, not just models  
 ✔️ I focus on **real-world applications**  
 ✔️ I combine **AI + Backend + Product Thinking**  
-✔️ I build with **scalability in mind**
+✔️ I build with **scalability** in mind  
 
 ---
 
 ## 🌱 Currently Building & Learning
+
 - 🔥 Advanced LLM & RAG systems  
 - ☁️ Cloud deployment (AWS + Docker)  
 - 🤖 AI Agents & automation  
@@ -169,6 +173,7 @@ I design and build **end-to-end AI products**:
 ---
 
 ## 🤝 Open to Collaborate On
+
 - AI / ML / LLM projects  
 - Backend-heavy systems  
 - Hackathons & startups 🚀  
