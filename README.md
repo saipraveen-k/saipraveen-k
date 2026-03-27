@@ -12,10 +12,20 @@
 </div>
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saipraveen-k&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saipraveen-k&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
 </p>
 
 ---
