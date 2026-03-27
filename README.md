@@ -171,10 +171,6 @@ I design and build **end-to-end AI products**:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyo-night&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyo-night&hide_border=true)
-
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true)
 
 
@@ -189,7 +185,14 @@ I design and build **end-to-end AI products**:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=saipraveen-k&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true"/>
+</p>
 
 </p>
 
