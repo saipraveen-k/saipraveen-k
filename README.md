@@ -10,26 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://)
 
 </div>
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=saipraveen-k&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -197,7 +177,22 @@ I design and build **end-to-end AI products**:
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=saipraveen-k&theme=tokyo-night&hide_border=true)
 
----
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saipraveen-k&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=saipraveen-k&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen-k&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+</p>
+
 
 <div align="center">
 
